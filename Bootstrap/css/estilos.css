@@ -1,0 +1,87 @@
+.musica-body{
+  background: url(../img/fondo.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.navbar-inverse {
+  background-color: rgba(192,235,132,1);
+  min-height: 10%;
+  border: none;
+}
+.menu {
+  background-color: rgba(192,235,132,1);
+  border: none;
+  padding: 10px;
+}
+.botones{
+  background-color: rgba(100,212,126,1);
+  border-radius: 5px;
+  margin: 3px;
+  margin-left: 2%;
+}
+.botones:visited{
+  color: white;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.logo-musica {
+  width: 100px;
+}
+.redes-sociales {
+  margin-top: 30px;
+  margin-right: 30px;
+  margin-bottom: 5px;
+  float: right;
+}
+
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+.titulo-cartelera {
+  min-height: 35px;
+  background-color: rgba(8, 45, 94, 0.95);
+}
+.navabar {
+  background: url(../img/cartelera.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  min-height: 500px;
+  border-radius: 0px !important;
+  margin-bottom: 0px;
+}
+.articulos{
+  text-align: justify;
+  background-color: rgba(206,237,215,1);
+  border-radius: 5px;
+  padding: 25px;
+  margin: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.comentario{
+  height: 30px;
+  border-radius: 5px;
+  width: 100%;
+}
+.imagen{
+  width: 100%;
+}
+.buscador{
+  text-align: justify;
+  background-color: rgba(206,237,215,1);
+  border-radius: 5px;
+  padding: 8px;
+  margin: 3px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
