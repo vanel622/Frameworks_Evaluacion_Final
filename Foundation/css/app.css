@@ -1,0 +1,72 @@
+
+
+.capa{
+  background: rgba(246,246,126,0.5);
+  margin: 30px;
+  position: absolute;
+  
+}
+.columna-navegacion{
+  background-color: #FFC417;
+}
+.principal{
+  background-color: inherit;
+  border-radius: 3px;
+}
+.title{
+  color: black;
+  text-align: right;
+}
+.eslogan{
+  text-align: right;
+  color: black;
+}
+.favoritos {
+  background-color: #FFC417;
+    border-radius: 3px;
+}
+.favoritos img{
+    border-radius: 3px;
+    border: 1px solid black;
+}
+.articulos{
+  background-color: #F5D141;
+}
+.lista {
+      background-color: inherit;
+      border-radius: 3px;
+}
+.lista select{
+      margin: 3px;
+      border-radius: 10px;
+}
+.navegacion {
+    text-align: center;
+}
+.historial {
+    background-color: inherit;
+    border-radius: 3px;
+    border-right: 2px solid black;
+}
+.name-title{
+
+  font-family: monospace;
+}
+.name-subtitle{
+  font-family: serif;
+}
+.arroz{
+  text-align: center;
+  width: 100%;
+}
+.avatar{
+  background-color: #FFC417;
+}
+.avatar img{
+  width: 1005;
+}
+.personal-name{
+  font-size: 25px;
+  color: #283CFF;
+  border: 1px solid #283CFF;;
+}
