@@ -1,0 +1,63 @@
+.contenedor-logo-buscar img{
+  border-radius: 5px;
+  margin-top: 2em;
+}
+body{
+  background-attachment: fixed;
+  background-repeat: round;
+  background-image: url(Img/fondo.jpg)
+
+}
+.navbar{
+   background-attachment: fixed;
+   overflow: fixed;
+}
+.contenedor-botones{
+  border-radius: 5px;
+  margin-top: 2em;
+}
+.capa{
+  colorbackground-attachment: fixed;
+  overflow: fixed;
+}
+.redes img{
+  width: 60%;
+}
+.img1 img{
+  width: 100%;
+}
+.img1{
+  background-color: rgba(0,0,0,0);
+}
+.imagenes{
+  background-color: rgba(0,0,0,0);
+}
+.vertival-imagenes{
+  padding: 0 !important;
+  background-color: rgba(0,0,0,0);
+}
+@media screen and (max-width: 992px) {
+  .contenedor-botones {
+    display: none;
+  }
+}
+.articulos{
+  border-radius: 5px;
+  margin-left: 1em;
+}
+h5 {
+  color: #880e4f;
+}
+.img-articulo img{
+  width: 50%;
+  float: left;
+  margin: 5px;
+}
+.autor-texto img{
+  width: 100%;
+}
+.monserrate img{
+  width: 50%;
+  float: left;
+  margin: 5px;
+}
